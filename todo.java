@@ -21,7 +21,7 @@ public class todo {
                 case 1:
                     createTodoList();
                     break;
-                    case 2:
+                case 2:
                     useTodoList();
                     break;
                 case 3:
